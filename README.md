@@ -36,6 +36,6 @@ El diseño lógico de la base de datos prioriza la anonimización y la integrida
 * `Solicitudes` (Instancia de asignación de una adecuación)
 * `Docentes_Notificaciones` (Registro de trazabilidad y tokens de confirmación)
 * `Encuestas_Satisfaccion` (Feedback histórico vinculado a la solicitud)
-
+ ![Modelo Relacional de Base de Datos](docs/diagrama_bd.png)
 ---
 *Boceto conceptual*
